@@ -44,7 +44,7 @@ Além do cálculo, o programa também exibe **representações simples em ASCII*
 
 ---
 
-## 3️⃣ Conversão de unidades
+## 3️ Conversão de unidades
 
 O sistema também permite realizar diversas conversões:
 
@@ -59,7 +59,7 @@ O sistema também permite realizar diversas conversões:
 
 ---
 
-# ⚙️ Como o programa funciona
+# Como o programa funciona
 
 O programa utiliza um **menu principal** com três módulos principais:
 
@@ -75,7 +75,7 @@ Também há tratamento para **entrada inválida**, evitando que o programa quebr
 
 ---
 
-Estrutura do código:
+# Estrutura do código:
 
 O projeto foi organizado utilizando **funções separadas para cada cálculo**, facilitando manutenção e leitura do código.
 
@@ -90,7 +90,7 @@ Exemplos de funções implementadas:
 - `cone()` -> volume do cone
 - `cilindro()` -> volume do cilindro
 
-Também existem funções auxiliares como:
+# Também existem funções auxiliares como:
 
 - `linha()` → desenha linhas decorativas no terminal
 - `limparBufferEntrada()` → evita problemas com leitura de dados
@@ -98,7 +98,7 @@ Também existem funções auxiliares como:
 
 ---
 
-Tecnologias utilizadas
+# Tecnologias utilizadas
 
 - Linguagem **C**
 - Compilação via **GCC ou compiladores compatíveis**
@@ -106,7 +106,7 @@ Tecnologias utilizadas
 
 ---
 
-Como compilar e executar:
+# Como compilar e executar:
 
 Compilar
 
@@ -123,7 +123,7 @@ programa.exe
 
 ---
 
-Conceitos de programação aplicados
+# Conceitos de programação aplicados
 
 Este projeto utiliza diversos conceitos fundamentais de programação em C:
 
@@ -137,7 +137,7 @@ Este projeto utiliza diversos conceitos fundamentais de programação em C:
 
 ---
 
-Objetivo do projeto:
+# Objetivo do projeto:
 
 Este projeto foi desenvolvido como **atividade acadêmica** para praticar:
 
@@ -148,7 +148,7 @@ Este projeto foi desenvolvido como **atividade acadêmica** para praticar:
 
 ---
 
-Possíveis melhorias futuras:
+# Possíveis melhorias futuras:
 
 - melhorar validação de entrada
 - criar interface gráfica
